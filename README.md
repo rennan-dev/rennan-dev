@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AFF24&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AFF24&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rennan+Alves;I'm+24+years+old;I'm+from+Brazil;I+am+a+Software+Engineering+student,+6th+semester;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3AFF24&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rennan+Alves;I'm+24+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+student,+6th+semester;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rennan-dev&show_icons=true&count_private=true&hide_border=true&title_color=3AFF24&icon_color=3AFF24&text_color=c9d1d9&bg_color=0d1117" alt="Rennan Alves github stats" /> 
