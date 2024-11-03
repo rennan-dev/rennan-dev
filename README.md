@@ -37,7 +37,10 @@
 <br>
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rennan-dev/rennan-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rennan-dev/rennan-dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rennan-dev/rennan-dev/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d00df&height=120&section=footer"/>
-
-![Snake animation](https://github.com/rennan-dev/rennan-dev/blob/output/github-contribution-grid-snake.svg)
