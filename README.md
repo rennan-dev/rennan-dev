@@ -1,46 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d00df&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d00df&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rennan+Alves;I'm+24+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+student,+6th+semester;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rennan-dev&show_icons=true&count_private=true&hide_border=true&title_color=3AFF24&icon_color=8d00df&text_color=c9d1d9&bg_color=0d1117" alt="Rennan Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennan-dev&layout=compact&hide_border=true&title_color=3AFF24&text_color=8d00df&bg_color=0d1117" />
-</div>
-
+<h1 align="center">Rennan Alves</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rennan-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  Desenvolvedor .NET • Monitoramento & Métricas • Web Full-Stack
 </p>
 
-<div align="center"> 
-<a href="https://www.instagram.com/rennan_alves11?igsh=MTZwcnR1ZnhiNm9vag%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:rennandev7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rennan-alves-b7a904283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![C#](https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-0D1117?style=for-the-badge&logo=aspnet&logoColor=5C2D91&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<p align="center">
+  <a href="mailto:rennandev7@gmail.com">📧 Email</a>  •
+  <a href="https://www.linkedin.com/in/rennan-alves-b7a904283/">💼 LinkedIn</a>  •
+  <a href="https://www.instagram.com/rennan_alves11?igsh=MTZwcnR1ZnhiNm9vag%3D%3D&utm_source=qr">📷 Instagram</a>
+</p>
 
+---
 
+### Sobre mim
+Sou desenvolvedor focado em **back-end com .NET/ASP.NET Core** e **monitoramento de aplicações**, criando APIs robustas, pipelines de logs/métricas e **dashboards** que ajudam o time a tomar decisões rápidas. Também desenvolvo **front-ends** com React e construo **serviços web** com Node.js e PHP quando necessário.
 
-### Studying in this moment:
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+- 🎯 **Interesse principal**: Telemetria, dashboards, performance de APIs e boas práticas de engenharia.
+- ☁️ **Cloud**: Azure (Monitor, App Service, DevOps), automações e integração com métricas.
+- 📚 **Estudos atuais**: Python para dados/ETL, React avançado e Unity por curiosidade técnica.
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rennan-dev}/count.svg" /></p> 
-<br>
-</div>
+---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rennan-dev/rennan-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rennan-dev/rennan-dev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rennan-dev/rennan-dev/output/github-contribution-grid-snake.svg">
-</picture>
+### Tecnologias
+**Linguagens & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,php,python,unity&perline=9" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d00df&height=120&section=footer"/>
+**Infra, DevOps & Monitoramento**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,mysql,postgres,sqlite,grafana,prometheus,postman,vscode&perline=10" />
+
+---
+
+### Destaques de projetos
+- [**Controle de finanças pessoais**](https://github.com/rennan-dev/financas) — cadastro de usuários, despesas e métodos de pagamento (dinheiro, débito, crédito).  
+  _Stack:_ React (frontend) + PHP com MySQL (backend).
+
+- [**BookIt**](https://github.com/rennan-dev/BookIt) — sistema de reservas de livros, com cadastro de usuários e controle de empréstimos.  
+  _Stack:_ Node.js + Express + MongoDB.
+
+- **Dashboards de monitoramento** — melhoria contínua de painéis e métricas (Grafana + Azure) para monitorar serviços em produção.  
+  _Stack:_ Grafana, Azure Monitor, KQL/PromQL.
+
+---
+
+### Vamos conversar?
+Se você curte falar sobre **.NET, métricas e monitoramento** ou quer construir algo **performático e bem monitorado**, me chama:
+**[rennandev7@gmail.com](mailto:rennandev7@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/rennan-alves-b7a904283/)**
+
+---
+
+<details>
+  <summary>📊 Ver métricas do GitHub</summary>
+  <br/>
+
+  <div align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rennan-dev&show_icons=true&hide_border=true&theme=transparent&title_color=8d00df&icon_color=8d00df" alt="GitHub Stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennan-dev&layout=compact&hide_border=true&theme=transparent&title_color=8d00df" alt="Top Langs"/>
+  </div>
+</details>
