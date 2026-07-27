@@ -1,29 +1,37 @@
 <h1 align="center">Rennan Alves</h1>
+
 <p align="center">
-  Desenvolvedor .NET • Monitoramento & Métricas • Web Full-Stack
+  Desenvolvedor .NET • Visão Computacional & Deep Learning • Monitoramento & Métricas
 </p>
 
 <p align="center">
-  <a href="mailto:rennandev7@gmail.com">📧 Email</a>  •
-  <a href="https://www.linkedin.com/in/rennan-alves-b7a904283/">💼 LinkedIn</a>  •
+  <a href="mailto:rennandev7@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rennan-alves-b7a904283/">💼 LinkedIn</a> •
   <a href="https://www.instagram.com/rennan_alves11?igsh=MTZwcnR1ZnhiNm9vag%3D%3D&utm_source=qr">📷 Instagram</a>
 </p>
 
 ---
 
 ### Sobre mim
-Sou desenvolvedor focado em **back-end com .NET/ASP.NET Core** e **monitoramento de aplicações**, criando APIs robustas, pipelines de logs/métricas e **dashboards** que ajudam o time a tomar decisões rápidas. Também desenvolvo **front-ends** com React e construo **serviços web** com Node.js e PHP quando necessário.
 
-- 🎯 **Interesse principal**: Telemetria, dashboards, performance de APIs e boas práticas de engenharia.
+Sou desenvolvedor **back-end com .NET/ASP.NET Core**, com experiência em **monitoramento de aplicações** — APIs robustas, pipelines de logs/métricas e dashboards que ajudam times a tomar decisões rápidas. Atualmente, meu principal foco de estudo e trabalho é **Visão Computacional**, com ênfase em **detecção de objetos em tempo real usando YOLO** (Ultralytics), treinamento e fine-tuning de modelos aplicados a cenários reais.
+
+- 🎯 **Foco atual**: Visão Computacional — detecção/rastreamento de objetos com YOLO, fine-tuning de modelos e pré-processamento de imagens com OpenCV.
+- 🖥️ **Back-end & Monitoramento**: APIs em .NET/ASP.NET Core, telemetria, dashboards e performance de serviços.
 - ☁️ **Cloud**: Azure (Monitor, App Service, DevOps), automações e integração com métricas.
-- 📚 **Estudos atuais**: Python para dados/ETL, React avançado e Unity por curiosidade técnica.
+- 🧠 **Em estudo**: Deep Learning aplicado à visão computacional, React avançado e Unity por curiosidade técnica.
 
 ---
 
 ### Tecnologias
+
+**Visão Computacional & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn&perline=5" />
+
 **Linguagens & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,php,python,unity&perline=9" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,php,unity&perline=8" />
 
 **Infra, DevOps & Monitoramento**
 <br/>
@@ -32,29 +40,22 @@ Sou desenvolvedor focado em **back-end com .NET/ASP.NET Core** e **monitoramento
 ---
 
 ### Destaques de projetos
-- [**Controle de finanças pessoais**](https://github.com/rennan-dev/financas) — cadastro de usuários, despesas e métodos de pagamento (dinheiro, débito, crédito).  
+
+- **Visão Computacional com YOLO** — detecção e rastreamento de objetos em tempo real, treinamento e fine-tuning de modelos YOLO (Ultralytics) para cenários específicos.
+  _Stack:_ Python, OpenCV, YOLOv11/YOLO26.
+
+- [**Controle de finanças pessoais**](https://github.com/rennan-dev/finorabr) — cadastro de usuários, despesas e métodos de pagamento (dinheiro, débito, crédito).
   _Stack:_ React (frontend) + PHP com MySQL (backend).
 
-- [**BookIt**](https://github.com/rennan-dev/BookIt) — sistema de reservas de livros, com cadastro de usuários e controle de empréstimos.  
+- [**BookIt**](https://github.com/rennan-dev/BookIt) — sistema de reservas de livros, com cadastro de usuários e controle de empréstimos.
   _Stack:_ Node.js + Express + MongoDB.
 
-- **Dashboards de monitoramento** — melhoria contínua de painéis e métricas (Grafana + Azure) para monitorar serviços em produção.  
+- **Dashboards de monitoramento** — melhoria contínua de painéis e métricas (Grafana + Azure) para monitorar serviços em produção.
   _Stack:_ Grafana, Azure Monitor, KQL/PromQL.
 
 ---
 
 ### Vamos conversar?
-Se você curte falar sobre **.NET, métricas e monitoramento** ou quer construir algo **performático e bem monitorado**, me chama:
+
+Se você curte falar sobre **Visão Computacional, YOLO, .NET e monitoramento**, ou quer construir algo **performático e bem monitorado**, me chama:
 **[rennandev7@gmail.com](mailto:rennandev7@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/rennan-alves-b7a904283/)**
-
----
-
-<details>
-  <summary>📊 Ver métricas do GitHub</summary>
-  <br/>
-
-  <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rennan-dev&show_icons=true&hide_border=true&theme=transparent&title_color=8d00df&icon_color=8d00df" alt="GitHub Stats"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennan-dev&layout=compact&hide_border=true&theme=transparent&title_color=8d00df" alt="Top Langs"/>
-  </div>
-</details>
