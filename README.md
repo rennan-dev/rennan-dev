@@ -45,7 +45,7 @@ Sou desenvolvedor **back-end com .NET/ASP.NET Core**, com experiência em **moni
   _Stack:_ Python, OpenCV, YOLOv11/YOLO26.
 
 - [**Controle de finanças pessoais**](https://github.com/rennan-dev/finorabr) — cadastro de usuários, despesas e métodos de pagamento (dinheiro, débito, crédito).
-  _Stack:_ React (frontend) + PHP com MySQL (backend).
+  _Stack:_ React (frontend) + Laravel e MySQL (backend).
 
 - [**BookIt**](https://github.com/rennan-dev/BookIt) — sistema de reservas de livros, com cadastro de usuários e controle de empréstimos.
   _Stack:_ Node.js + Express + MongoDB.
