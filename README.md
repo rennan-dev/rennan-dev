@@ -44,7 +44,7 @@ Sou desenvolvedor **back-end com .NET/ASP.NET Core**, com experiência em **moni
 - **Visão Computacional com YOLO** — detecção e rastreamento de objetos em tempo real, treinamento e fine-tuning de modelos YOLO (Ultralytics) para cenários específicos.
   _Stack:_ Python, OpenCV, YOLOv11/YOLO26.
 
-- [**Controle de finanças pessoais**](https://github.com/rennan-dev/finorabr) — cadastro de usuários, despesas e métodos de pagamento (dinheiro, débito, crédito).
+- [**Controle de finanças pessoais**](https://github.com/rennan-dev/finora-br) — cadastro de usuários, despesas e métodos de pagamento (dinheiro, débito, crédito).
   _Stack:_ React (frontend) + Laravel e MySQL (backend).
 
 - [**BookIt**](https://github.com/rennan-dev/BookIt) — sistema de reservas de livros, com cadastro de usuários e controle de empréstimos.
